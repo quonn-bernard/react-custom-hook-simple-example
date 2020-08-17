@@ -21,4 +21,7 @@ This project features a 'controlled' sidebar which is opened and closed based on
 [React Icons](https://react-icons.github.io/react-icons/)
 
 # Setup
+
+Step 1. Clone this repository
+
 # Status

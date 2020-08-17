@@ -20,11 +20,20 @@ This project features a 'controlled' sidebar which is opened and closed based on
 
 [React Icons](https://react-icons.github.io/react-icons/)
 
+[NodeJS](https://nodejs.org/en/)
+
+npm
+
 # Setup
 
 Step 1. Clone this repository
 
 Step 2. cd into new directory, then cd into useopen
 
+Step 3. run 'npm install' command in your terminal
+
+Step 4. run 'npm start' in your terminal 
 
 # Status
+
+Ready for download!

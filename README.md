@@ -24,4 +24,7 @@ This project features a 'controlled' sidebar which is opened and closed based on
 
 Step 1. Clone this repository
 
+Step 2. cd into new directory, then cd into useopen
+
+
 # Status

@@ -18,5 +18,7 @@ This project features a 'controlled' sidebar which is opened and closed based on
 
 [Custom Hooks](https://reactjs.org/docs/hooks-custom.html#extracting-a-custom-hook)
 
+[React Icons](https://react-icons.github.io/react-icons/)
+
 # Setup
 # Status

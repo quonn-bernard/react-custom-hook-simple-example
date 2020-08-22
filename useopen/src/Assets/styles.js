@@ -4,7 +4,7 @@ export const sideBarStyles = {
     transition: "all ease-in .25s",
     background: "navy",
     color: "#fff",
-    height: "100vw",
+    height: "100vh",
     padding: "1rem",
     boxShadow: "1px 1px 10px #999",
   };

@@ -12,7 +12,7 @@ A very basic example of how to create and implement a custom react hook
 # General info
 This project features a 'controlled' sidebar which is opened and closed based on state of isOpen(boolean). Clicking the hamburger icon invokes toggle(), which sets prevIsOpen to !prevIsOpen.
 
-![project screenshot](https://i.imgur.com/0xMoyL8.png?2)
+![project screenshot](https://i.imgur.com/Tt6Gfsh.png)
 # Technology
 [ReactJS](https://reactjs.org)
 

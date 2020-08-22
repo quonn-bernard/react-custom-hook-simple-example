@@ -1,4 +1,4 @@
-# ReactJS Custom Hook - useOpen()
+# ReactJS Custom Hook - useOpen() + useScreenWidth
 A very basic example of how to create and implement a custom react hook
 ## Table Of Contents
 [General Info](#general-info)
